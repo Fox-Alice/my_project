@@ -1,1 +1,1 @@
-# my_project
+# my_project учебный проект
